@@ -1,0 +1,11 @@
+org\sygnific\readers\model\BeamModel.class
+org\sygnific\readers\repository\BookRepository.class
+org\sygnific\readers\service\BookService.class
+org\sygnific\readers\model\UserHistory.class
+org\sygnific\readers\repository\UserRepository.class
+org\sygnific\readers\resource\UserResource.class
+org\sygnific\readers\service\UserService.class
+org\sygnific\readers\model\Users.class
+org\sygnific\readers\resource\BookResource.class
+org\sygnific\readers\Library\MyResource.class
+org\sygnific\readers\model\Book.class
